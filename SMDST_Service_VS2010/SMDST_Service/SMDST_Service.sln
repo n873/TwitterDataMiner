@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMDST_Service", "SMDST_Service\SMDST_Service.csproj", "{FFBC1F17-243E-4360-9A6A-1DAA32783E79}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SMDST Service - Setup", "SMDST Service - Setup\SMDST Service - Setup.vdproj", "{ADE5A654-0A36-4A1D-A475-2881E0F43F96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFBC1F17-243E-4360-9A6A-1DAA32783E79}.Debug|x86.ActiveCfg = Debug|x86
+		{FFBC1F17-243E-4360-9A6A-1DAA32783E79}.Debug|x86.Build.0 = Debug|x86
+		{FFBC1F17-243E-4360-9A6A-1DAA32783E79}.Release|x86.ActiveCfg = Release|x86
+		{FFBC1F17-243E-4360-9A6A-1DAA32783E79}.Release|x86.Build.0 = Release|x86
+		{ADE5A654-0A36-4A1D-A475-2881E0F43F96}.Debug|x86.ActiveCfg = Debug
+		{ADE5A654-0A36-4A1D-A475-2881E0F43F96}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
